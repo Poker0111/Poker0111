@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Poker0111! 👋
 
-<!--
-**Poker0111/Poker0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 GUI Developer & Game Dev Enthusiast | Digital & Classic Arts Passionate
+---
 
-Here are some ideas to get you started:
+### 🛠️ Technical Toolkit
+- **Languages:** C++ (Core)
+- **Frameworks:** wxWidgets (Current), Qt (Transitioning)
+- **Gamedev:** Interested in Unreal Engine
+- **Tools:** Git, CMake, Visual Studio, CLI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Creative Background
+- **Cinematography & Animation:** I focus on composition and smooth motion within user interfaces.
+- **3D Art:** My experience with 3D modeling helps me understand rendering, lighting, and optimization in real-time environments.
+- **Music & Audio:** Inspires the rhythm and dynamic feedback (UX) of my applications.
+
+---
+### 📈 Future Goals
+- Architecting high-performance, cross-platform desktop applications.
+- Mastering shaders and graphics programming.
