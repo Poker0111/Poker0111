@@ -4,10 +4,9 @@
 ---
 
 ### 🛠️ Technical Toolkit
-- **Languages:** C++ (Core)
-- **Frameworks:** wxWidgets (Current), Qt (Transitioning)
-- **Gamedev:** Interested in Unreal Engine
-- **Tools:** Git, CMake, Visual Studio, CLI
+- **Languages:** C++ (Core), GO (learning)
+- **Frameworks:** Qt
+- **Tools:** Git, CMake, Visual Studio Code, Blender
 
 ### 🎨 Creative Background
 - **Cinematography & Animation:** I focus on composition and smooth motion within user interfaces.
@@ -18,3 +17,4 @@
 ### 📈 Future Goals
 - Architecting high-performance, cross-platform desktop applications.
 - Mastering shaders and graphics programming.
+- Successful translation into polish Monogatari Series and make tools to help mi with it
